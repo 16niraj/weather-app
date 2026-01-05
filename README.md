@@ -113,7 +113,7 @@ Wind Speed: 4.2 m/s
 ---
 
 
-This project is created for **educational purposes**.
+This project is created as a **learning** and **educational purposes**.
 
 ---
 
